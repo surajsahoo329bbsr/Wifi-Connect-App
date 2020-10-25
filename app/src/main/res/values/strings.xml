@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WifiConnectApp</string>
+    <string name="enter_wifi_name">Enter Wifi Name</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="enter_wifi_password">Enter Wifi Password</string>
+</resources>
